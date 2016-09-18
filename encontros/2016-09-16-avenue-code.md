@@ -14,4 +14,13 @@ São Paulo - SP, 01309-001
 
 ## Slides e outros conteúdos apresentados
 
-Depois do encontro, todo o conteúdo será disponibilizado por este repositório e poderá ser usado por qualquer pessoa, desde que seja para uso não comercial e instrucional sobre Python e módulos da linguagem.
+### Machine Learning: o que realmente é isso e como posso usar no meu dia a dia?
+Palestrante: [Vinícius Mesel](http://vmesel.com)
+
+* Slides: [SlideShare](http://pt.slideshare.net/ViniciusMesel/machine-learning-o-que-isso)
+
+### Lightning Talk: Machine Learning 101
+
+Palestrante: [Maurício Vieira](http://mauriciovieira.net)
+
+* Slides: [Slideshare](http://pt.slideshare.net/mauriciovieira/machine-learning-101-speakerdeck)
