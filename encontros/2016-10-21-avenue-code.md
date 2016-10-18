@@ -6,7 +6,7 @@ No próximo encontro iremos fazer uma pausa nos pacotes científicos para aprend
 
 Você vai perder?
 
-Inscrições abertas no sympla a partir do dia 17/10/2016, às 19h.
+**[Inscrições abertas no sympla](https://www.sympla.com.br/encontro-scipy-sp__95203)**
 
 
 ## Local:
