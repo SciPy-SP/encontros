@@ -21,5 +21,5 @@ São Paulo - SP, 01309-001
 
 ## Instalação
 
-[Tutorial de instalação do git no windows](https://github.com/SciPy-SP/encontros/blob/master/tutoriais/Tutorial_Instalacao_Git_for_Windows.pdf)
+[Tutorial de instalação do git no windows](https://github.com/SciPy-SP/encontros/blob/master/tutoriais/Tutorial_Instalacao_Git_for_Windows.pdf) feito por Edy Gessef 
 
