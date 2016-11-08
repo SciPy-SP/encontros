@@ -1,35 +1,39 @@
-# Encontro do SciPy São Paulo (21 de outubro de 2016)
+# Pivot table no Pandas
 
-## Anúncio:
+## Descrição
+Terceiro encontro.
+Mauricio Vieria falou sobre git e github.
 
-E lá vamos nós para mais uma reunião do grupo de estudos SciPy SP!
+## Data e hora
+21 de outubro de 2016 - 19h00 a 21h00
 
-No próximo encontro iremos fazer uma pausa nos pacotes científicos para aprender um pouco mais sobre git, github e jupyter notebook. Veja as instruções de instalação do git para windows, caso ainda não tenha instalado.
-
-Você vai perder?
-
-**[Inscrições abertas no sympla](https://www.sympla.com.br/encontro-scipy-sp__95203)**
-
-## Local:
-
-O encontro ocorreu na Avenue Code, das 19 às 21 horas.
-
+## Local
 Avenue Code
-
 R. Luís Coelho, 223 - Consolação
-
 São Paulo - SP, 01309-001
 
-## Instalação
+## Objetivos
+Aprender a utilizar o git e o github.
 
+## Pré-requisitos
+Python básico.
+Instalação do git.
 [Tutorial de instalação do git no windows](https://github.com/SciPy-SP/encontros/blob/master/tutoriais/Tutorial_Instalacao_Git_for_Windows.pdf) feito por Edy Gessef 
 
-## Materiais
+## Conteúdo
+Criar repositório (git init).
+Adicionar arquivo (add nomedoarquivo).
+Confirmar alterações (git commit -m 'comentario').
+Criar branch (git checkout -b nomedobranch).
+Histórico (git log).
+Mesclar com ramo principal (git merge nomedobranchsecundario).
+Fazer upload em repositório remoto
 
-### Slides
-
-Veja [slides.com/mauriciovieira/guia-pratico-de-git](https://slides.com/mauriciovieira/guia-pratico-de-git/)
-
-### Repositório feito como exemplo:
-
+## Material discutido
+* Apresentação:
+* https://slides.com/mauriciovieira/guia-pratico-de-git/
+Repositório feito como exemplo:
 [Gitlab: tutorial-scipy-sp](https://gitlab.com/mauriciovieira/tutorial-scipy-sp/)
+
+## Facilitador
+Mauricio Vieira
