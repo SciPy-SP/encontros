@@ -1,7 +1,7 @@
 # Pivot table no Pandas
 
 ## Descrição
-Terceiro encontro.
+Quarto encontro.
 Mauricio Vieria falou sobre git e github.
 
 ## Data e hora
