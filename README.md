@@ -1,3 +1,3 @@
-# Instrucoes
+# Registro de encontros e outros
 
-Instruções para existirem os grupos do SciPy SP
+Registro de encontros do grupo de estudos de Scientific Python de São Paulo (Scipy-SP). Inclui outros temas relacionados.
