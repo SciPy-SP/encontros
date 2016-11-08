@@ -2,6 +2,7 @@
 
 ## Descrição
 * Terceiro encontro.
+* Bia, Marília e Marcelo prepararam o material.
 * Marília apresentou um uso do pivot table no pacote Pandas.
 * Utilizada base de dados sobre receitas de candidatos a deputado nas últimas eleições.
 
@@ -32,3 +33,4 @@
 
 ## Facilitadora
 * Marília Janizelli
+* Beatriz Uezu
