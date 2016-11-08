@@ -32,8 +32,8 @@ Fazer upload em repositório remoto
 ## Material discutido
 * Apresentação:
 * https://slides.com/mauriciovieira/guia-pratico-de-git/
-Repositório feito como exemplo:
-[Gitlab: tutorial-scipy-sp](https://gitlab.com/mauriciovieira/tutorial-scipy-sp/)
+* Repositório feito como exemplo:
+* [Gitlab: tutorial-scipy-sp](https://gitlab.com/mauriciovieira/tutorial-scipy-sp/)
 
 ## Facilitador
 Mauricio Vieira
