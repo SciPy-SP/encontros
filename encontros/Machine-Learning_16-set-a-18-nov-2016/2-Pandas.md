@@ -29,11 +29,9 @@
 * Correlação (corr).
 
 ## Material discutido
-* Vídeo:
-* https://www.youtube.com/watch?v=1o34zjQYgvY
+* [Vídeo] (https://www.youtube.com/watch?v=1o34zjQYgvY)
 
-* Dados que foram usados nos exercícios:
-* https://github.com/pnovais/scipy_estudos
+* [Dados que utilizados nos exercícios](https://github.com/pnovais/scipy_estudos)
 
 ## Facilitadora
 * Patricia Novais
