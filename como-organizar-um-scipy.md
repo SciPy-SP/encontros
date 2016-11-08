@@ -1,45 +1,45 @@
-# Manifesto do Grupo de Estudos de SciPy em São Paulo
+# Ideias e dicas do Grupo de Estudos de SciPy em São Paulo
 
-Este texto é, na verdade, uma representação de uma série de coisas que gostariamos que fossem executadas no grupo de estudos de Scientific Python em São Paulo, uma série de ideias e dicas que podem favorecer a outros grupos também.
+Este é um check list de atividades para encontros do grupo de estudos de Scientific Python em São Paulo.
+Ele pode ajudar outros grupos a melhorar seus encontros.
 
-## Para ocorrer um meetup do SciPy SP:
+## Convite à participação
 
-Caso vocẽ queira organizar um meetup do SciPy São Paulo em sua casa, empresa ou centro acadêmico, você pode seguir estas ideias de requerimentos básicos, obrigações e deveres para que o meetup se enquadre dentro de um formato generalizado para todos os meetups de São Paulo.
+Como (quase) tudo na vida, este documento pode ser melhorado.
+Aceitamos comentários, críticas, sugestões, elogios...
+ 
+### São itens ideais de um encontro:
+ * Material de estudo e referências extras disponibilizadas com (bastante) antecedência
 
 ### São requerimentos básicos:
- * Um projetor, caso tenha mais de 2 participantes
- * Um computador para mostrar slides, códigos ou papers
- * Dois participantes (sendo um deles o que cede o espaço)
- * Algum tema para se debater
+ * Um computador para mostrar slides, códigos ou artigos científicos
+ * Dois participantes (um deles é o facilitador, aquele que prepara o material do dia)
+ * Tema de estudo do dia relacionado a Python Científico
+ * Metas de aprendizado claras para curto, médio e longo prazo
+ * Plano passo a passo para abordar os temas de estudo e atingir metas
+ * Local tranquilo
+
+## Escolher local, data e hora:
+ * Local perto de transportes públicos ou de fácil acesso
+ * Durante a semana, após o horário comercial e rush, ou seja, das 19:00 às 22:00
+ * De final de semana, sábado das 9:00 às 17:00. 
  
-### São itens ideais:
- * Ter algum tema baseado nos temas de Python científico
- * Ter mais de um palestrante é extremamente ideal para não ficar massivo
- * Ter encontros de Coding Dojo para poder demonstrar conteúdos novos
- 
-### São obrigações da pessoa que cede o espaço:
- * Ter o espaço disponível na data e hora marcada
- * Poder receber as pessoas no local
- 
-### São obrigações dos participantes do SciPy:
- * Ajudar aos usuários com menos conhecimento que você
- * Ajudar de alguma forma na organização dos eventos
+### São obrigações dos participantes:
+ * Se preparar para os encontros (verificar pré-requisitos de conhecimento, instalar pacotes, ler sobre os temas...)
+ * Não assumir que os outros tem menos conhecimento do que você
+ * Dar espaço para todos falarem e serem ouvidos, sem monopolizar o tempo
+ * Respeitar dúvidas
+ * Quando não entender algo, perguntar
+ * Quando não souber algo, dizer que não sabe
+ * Ajudar na organização
 
-## Dicas para organizar um SciPy:
+## Outros itens:
+ * Sugerir temas para estudo coletivo (mesmo que você não conheça o assunto)
+ * Encontrar locais para a realização de eventos 
+ * Divulgar eventos (Face to face, Email, Facebook, Twitter, LinkedIn...) 
+ * Trabalhar na organização no dia dos eventos
+ * Documentação pós-evento (Registrar o que aprendeu, compartilhar exemplos de uso...) 
+ * Feedback (Falar se faltou explorar algum tema no encontro, se foi bem explicado, se foi bem organizado...) 
 
-Dê preferências a locais perto de transportes públicos ou de fácil acesso. Durante a semana, os horários que são bem recomendados e funcionam bem em outras comunidades, das 19:00 às 22:00. De final de semana, é altamente recomendado o dia de sábado, das 9:00 às 17:00. Lembre-se também que deve-se prestar atenção nas pessoas com necessidades especiais e selecione locais que tem fácil acesso a eles.
-
-Para escolher palestras para eventos que recebem palestras de participantes, use o [SpeakerFight](http://speakerfight.com/) ou o [Call4Paperz](http://call4paperz.com/) para receber as ideias de palestra.
-
-## É necessário pedir autorização para organizar um Meetup do SciPy?
-
-NÃO! Você pode fazer o evento da forma que você achar melhor.
-
-## Outras formas de divulgação caso você não tenha condições de sediar um evento
-
- * Divulgação (Email marketing, Facebook, Twitter, etc...) 
- * Auxílio para locais da realização do evento 
- * Auxílio para a organização do evento (Localização, gerenciamento, entrada, etc...) 
- * Documentação (Fazer um post) Feedback (Se foi legal, foi ruim, isso poderia melhorar) Site (Aberto a colaborações) 
 
  
