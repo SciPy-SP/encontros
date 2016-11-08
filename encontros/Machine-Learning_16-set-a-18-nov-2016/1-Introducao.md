@@ -1,26 +1,35 @@
-# Primeiro Encontro do SciPy São Paulo (16 de setembro de 2016)
+# Introdução e alinhamento do SciPy São Paulo
 
-O primeiro encontro do SciPy São Paulo trabalhará em cima da temática de machine learning e como iniciar seus estudos nesta área que promete ser promissora nestes próximos anos. De conteúdo, será apresentada uma introdução ao Machine Learning por [Vinicius Mesel](http://vmesel.com), mas teremos uma abordagem total da temática.
+## Descrição
+Primeiro encontro.
+O grupo escolheu iniciar os estudos com o tema Machine Learning.
+Vinicius e Maurício apresentaram trabalhos já realizados com a ferramenta.
 
-## Aonde ocorrerá o encontro:
+## Data e hora
+16 de setembro de 2016 - 19h00 a 21h00
 
-O encontro ocorrerá na Avenue Code, das 19 às 21 horas.
-
+## Local
 Avenue Code
-
 R. Luís Coelho, 223 - Consolação
-
 São Paulo - SP, 01309-001
 
-## Slides e outros conteúdos apresentados
+## Objetivos
+Discutir como o grupo de estudos vai ser organizado.
+Escolher o primeiro tema a ser estudado.
 
-### Machine Learning: o que realmente é isso e como posso usar no meu dia a dia?
-Palestrante: [Vinícius Mesel](http://vmesel.com)
+## Pré-requisitos
+Nenhum.
 
+## Conteúdo
+Ver material discutido.
+
+## Material discutido
+* Machine Learning: o que realmente é isso e como posso usar no meu dia a dia?
 * Slides: [SlideShare](http://pt.slideshare.net/ViniciusMesel/machine-learning-o-que-isso)
 
-### Lightning Talk: Machine Learning 101
-
-Palestrante: [Maurício Vieira](http://mauriciovieira.net)
-
+* Machine Learning 101
 * Slides: [Slideshare](http://pt.slideshare.net/mauriciovieira/machine-learning-101-speakerdeck)
+
+## Facilitadores
+[Vinícius Mesel](http://vmesel.com)
+[Maurício Vieira](http://mauriciovieira.net)
