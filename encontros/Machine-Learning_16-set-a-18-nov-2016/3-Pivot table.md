@@ -28,6 +28,7 @@
 
 ## Material discutido
 * [Apresentação] (https://speakerdeck.com/vmesel/pandas-scipy-number-3)
+* [Dados utilizados] (https://github.com/SciPy-SP/encontros/blob/master/tutoriais/2016-10-14-novatec/receitascandidatos1.xls)
 
 ## Facilitadora
 * Marília Janizelli
