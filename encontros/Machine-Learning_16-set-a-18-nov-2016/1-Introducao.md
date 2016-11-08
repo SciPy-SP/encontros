@@ -24,11 +24,9 @@
 * Ver material discutido.
 
 ## Material discutido
-* Machine Learning: o que realmente é isso e como posso usar no meu dia a dia?
-* Slides: [SlideShare](http://pt.slideshare.net/ViniciusMesel/machine-learning-o-que-isso)
+* [Machine Learning: o que realmente é isso e como posso usar no meu dia a dia?](http://pt.slideshare.net/ViniciusMesel/machine-learning-o-que-isso)
 
-* Machine Learning 101
-* Slides: [Slideshare](http://pt.slideshare.net/mauriciovieira/machine-learning-101-speakerdeck)
+* [Machine Learning 101](http://pt.slideshare.net/mauriciovieira/machine-learning-101-speakerdeck)
 
 ## Facilitadores
 * [Vinícius Mesel](http://vmesel.com)
