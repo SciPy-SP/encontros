@@ -27,8 +27,7 @@
 * Histograma (hist() do Matplotlib).
 
 ## Material discutido
-* Apresentação:
-* https://speakerdeck.com/vmesel/pandas-scipy-number-3
+* [Apresentação] (https://speakerdeck.com/vmesel/pandas-scipy-number-3)
 
 ## Facilitadora
 * Marília Janizelli
