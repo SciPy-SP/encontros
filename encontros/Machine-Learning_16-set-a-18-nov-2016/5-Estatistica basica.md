@@ -27,7 +27,6 @@
 * Histograma.
 
 ## Material discutido
-* Apresentação:
 * [Teoria] (https://github.com/marceloyamaki/4nov2016/blob/master/encontro_scipy_pat.pdf)
 * [Prática] (https://github.com/marceloyamaki/4nov2016/blob/master/encontro_scipy_marcelo.pdf)
 * [Código utilizado] (https://github.com/marceloyamaki/4nov2016/blob/master/hue.py)
