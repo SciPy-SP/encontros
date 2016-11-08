@@ -25,7 +25,6 @@
 
 ## Material discutido
 * [Machine Learning: o que realmente é isso e como posso usar no meu dia a dia?](http://pt.slideshare.net/ViniciusMesel/machine-learning-o-que-isso)
-
 * [Machine Learning 101](http://pt.slideshare.net/mauriciovieira/machine-learning-101-speakerdeck)
 
 ## Facilitadores
