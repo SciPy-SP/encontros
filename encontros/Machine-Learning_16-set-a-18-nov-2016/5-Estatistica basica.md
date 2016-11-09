@@ -23,11 +23,11 @@
 * Mediana.
 * Desvio Padrão.
 * Variância.
-* Gaussiana.
 * Histograma.
+* Gaussiana.
 
 ## Material discutido
-* [Teoria] (https://github.com/marceloyamaki/4nov2016/blob/master/encontro_scipy_pat.pdf)
+* [Teoria] (https://github.com/tpsy/SciPy-SP/blob/master/estatbasica.pdf)
 * [Prática] (https://github.com/marceloyamaki/4nov2016/blob/master/encontro_scipy_marcelo.pdf)
 * [Código utilizado] (https://github.com/marceloyamaki/4nov2016/blob/master/hue.py)
 
