@@ -1,0 +1,30 @@
+Instruções de Instalação 
+
+Este tutorial de instalação se destina a todos que quiserem participar de grupo de estudos em programação científica com python. Siga as ainstruções abaixo e em caso de dúvidas, entre em contato pelo email contato@sp.scipy.org.br
+
+
+1 - A primeira coisa a ser feita é clonar o repositório do SciPy SP fazendo:
+
+   git clone https://github.com/SciPy-SP/encontros.git
+
+ou fazendo o download e descompactando esse arquivo: https://github.com/SciPy-SP/encontros/archive/master.zip
+
+2 - Se você não tiver o Anaconda instalado ainda, instale a versão para python 3.5, de acordo com seu OS em:
+
+https://www.continuum.io/downloads
+
+3 - Uma vez que o Anaconda já foi instalado, iremos criar um ambiente virtual especial com todos os softwares e pacotes que precisamos. No terminal, digite os seguintes comandos:
+
+```shell
+% conda env create -n scipy-sp --file environment.yml
+% source activate scipy-sp
+```
+
+**NOTA: vc precisa estar dentro do diretório "encontros" para isso.
+
+O comando acima criou um ambiente chamado 'scipy-sp', mas você pode mudar para qualquer nome que queira.
+
+
+Agora seu ambiente está pronto para ser utilizado!
+
+**Mains informações sobre virtualenv, visite http://conda.pydata.org/docs/using/envs.html
