@@ -1,6 +1,6 @@
 # Introdução ao scikit-learn [26/10/17]
 
-**Local:** IDwall
+**Local:** [IDwall](https://idwall.co/)
 
 **Instrutor:** [Danilo Bellini](https://github.com/danilobellini)
 
